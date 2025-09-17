@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ctrl_define.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "ctrl_interface.h": "c",
+        "ctrl_number.h": "c",
+        "math.h": "c",
+        "corecrt_math.h": "c"
+    }
+}
